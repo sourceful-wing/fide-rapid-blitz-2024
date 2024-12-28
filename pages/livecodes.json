@@ -1,0 +1,67 @@
+{
+  "title": "RacingBars",
+  "description": "",
+  "head": "<meta charset=\"UTF-8\" />\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />",
+  "htmlAttrs": "lang=\"en\" class=\"\"",
+  "tags": [],
+  "autoupdate": true,
+  "autosave": false,
+  "autotest": false,
+  "delay": 1500,
+  "formatOnsave": false,
+  "mode": "full",
+  "theme": "dark",
+  "layout": "responsive",
+  "recoverUnsaved": true,
+  "showSpacing": false,
+  "welcome": true,
+  "readonly": false,
+  "allowLangChange": true,
+  "activeEditor": "script",
+  "markup": {
+    "language": "html",
+    "content": "<div id=\"race\">Loading...</div>"
+  },
+  "style": {
+    "language": "css",
+    "content": "#race {\n  height: 80vh;\n}\n"
+  },
+  "script": {
+    "language": "javascript",
+    "content": "import { race } from \"racing-bars\";\n\n/** @type {import('racing-bars').Options} */\nconst options = {\n  autorun: true,\n  makeCumulative: true,\n  dateCounter: 'Round DD',\n  fixedScale: true,\n  tickDuration: 1000,\n  showGroups: true,\n  topN: 20,\n  showIcons: true,\n  title: \"FIDE World Rapid Open 2024\"\n\n};\n\nrace(\"https://raw.githubusercontent.com/sourceful-wing/fide-rapid-blitz-2024/2893a1337db17bc8153cfba2f81667b03b9bace2/combined_players.json\", \"#race\", options);\n"
+  },
+  "stylesheets": [],
+  "scripts": [],
+  "cssPreset": "",
+  "imports": {
+    "racing-bars": "https://racing-bars.hatemhosny.dev/lib/racing-bars.js",
+    "racing-bars/react": "https://racing-bars.hatemhosny.dev/lib/react.js",
+    "racing-bars/vue": "https://racing-bars.hatemhosny.dev/lib/vue.js"
+  },
+  "types": {
+    "racing-bars": "https://racing-bars.hatemhosny.dev/lib/racing-bars.d.ts"
+  },
+  "tests": {
+    "language": "typescript",
+    "content": ""
+  },
+  "tools": {
+    "enabled": "all",
+    "active": "console",
+    "status": "closed"
+  },
+  "zoom": 1,
+  "processors": [],
+  "customSettings": {},
+  "useTabs": false,
+  "tabSize": 2,
+  "lineNumbers": true,
+  "wordWrap": false,
+  "closeBrackets": true,
+  "semicolons": true,
+  "singleQuote": false,
+  "trailingComma": true,
+  "emmet": true,
+  "enableAI": false,
+  "version": "39"
+}
