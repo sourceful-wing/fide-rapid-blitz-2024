@@ -226,12 +226,16 @@ def jsonround_to_player_json(ROUND_NUMBER):
             country_code = country_flags.get(
                 player["Country"], "un"
             )  # Default to "un" for unknown
+
+            icon = f"https://flagsapi.com/{country_code.upper()}/flat/64.png"
+            if country_code == "un":
+                icon = "https://results.fide.com/wrbc2024/images/flags/FID.png"
             players.append(
                 {
                     "date": f"1900-01-{ROUND_NUMBER:02}",
                     "name": f"{player['Name'].split(', ')[1]} {player['Name'].split(', ')[0]}",
                     "value": get_score(game["Result"], is_player1),
-                    "icon": f"https://flagsapi.com/{country_code.upper()}/flat/64.png",
+                    "icon": icon,
                     "group": player.get("Title", "None"),
                 }
             )

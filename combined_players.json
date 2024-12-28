@@ -66,7 +66,7 @@
         "date": "1900-01-01",
         "name": "Ian Nepomniachtchi",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -136,7 +136,7 @@
         "date": "1900-01-01",
         "name": "Rudik Makarian",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
@@ -164,14 +164,14 @@
         "date": "1900-01-01",
         "name": "Aleksey Grebnev",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
         "date": "1900-01-01",
         "name": "Ivan Zemlyanskii",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -227,7 +227,7 @@
         "date": "1900-01-01",
         "name": "Semen Khanin",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -262,14 +262,14 @@
         "date": "1900-01-01",
         "name": "Daniil Dubov",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
         "date": "1900-01-01",
         "name": "Alexander Grischuk",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -430,7 +430,7 @@
         "date": "1900-01-01",
         "name": "Andrey Esipenko",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -472,7 +472,7 @@
         "date": "1900-01-01",
         "name": "Maksim Tsaruk",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
@@ -822,7 +822,7 @@
         "date": "1900-01-01",
         "name": "Volodar Murzin",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -857,7 +857,7 @@
         "date": "1900-01-01",
         "name": "Aleksandr Shimanov",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -934,14 +934,14 @@
         "date": "1900-01-01",
         "name": "David Paravyan",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
         "date": "1900-01-01",
         "name": "Aleksandr Rakhmanov",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -1046,7 +1046,7 @@
         "date": "1900-01-01",
         "name": "Denis Lazavik",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -1130,7 +1130,7 @@
         "date": "1900-01-01",
         "name": "Arseniy Nesterov",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -1249,7 +1249,7 @@
         "date": "1900-01-01",
         "name": "Mikhail Kobalia",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -1277,7 +1277,7 @@
         "date": "1900-01-02",
         "name": "Volodar Murzin",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -1417,7 +1417,7 @@
         "date": "1900-01-02",
         "name": "Arseniy Nesterov",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -1431,7 +1431,7 @@
         "date": "1900-01-02",
         "name": "Daniil Dubov",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -1452,7 +1452,7 @@
         "date": "1900-01-02",
         "name": "Alexander Grischuk",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -1543,7 +1543,7 @@
         "date": "1900-01-02",
         "name": "Aleksey Grebnev",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -1578,7 +1578,7 @@
         "date": "1900-01-02",
         "name": "Mikhail Kobalia",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -1781,7 +1781,7 @@
         "date": "1900-01-02",
         "name": "Ian Nepomniachtchi",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -1816,7 +1816,7 @@
         "date": "1900-01-02",
         "name": "Ivan Zemlyanskii",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -1865,7 +1865,7 @@
         "date": "1900-01-02",
         "name": "Rudik Makarian",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
@@ -1949,7 +1949,7 @@
         "date": "1900-01-02",
         "name": "David Paravyan",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -1977,7 +1977,7 @@
         "date": "1900-01-02",
         "name": "Denis Lazavik",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -2061,7 +2061,7 @@
         "date": "1900-01-02",
         "name": "Andrey Esipenko",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -2138,7 +2138,7 @@
         "date": "1900-01-02",
         "name": "Aleksandr Shimanov",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -2194,7 +2194,7 @@
         "date": "1900-01-02",
         "name": "Aleksandr Rakhmanov",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -2376,7 +2376,7 @@
         "date": "1900-01-02",
         "name": "Semen Khanin",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -2509,7 +2509,7 @@
         "date": "1900-01-02",
         "name": "Maksim Tsaruk",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
@@ -2656,7 +2656,7 @@
         "date": "1900-01-03",
         "name": "Daniil Dubov",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -2698,7 +2698,7 @@
         "date": "1900-01-03",
         "name": "Volodar Murzin",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -2754,7 +2754,7 @@
         "date": "1900-01-03",
         "name": "Ian Nepomniachtchi",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -2782,7 +2782,7 @@
         "date": "1900-01-03",
         "name": "David Paravyan",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -2803,14 +2803,14 @@
         "date": "1900-01-03",
         "name": "Alexander Grischuk",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
         "date": "1900-01-03",
         "name": "Denis Lazavik",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -2845,7 +2845,7 @@
         "date": "1900-01-03",
         "name": "Mikhail Kobalia",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -2873,7 +2873,7 @@
         "date": "1900-01-03",
         "name": "Ivan Zemlyanskii",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -2978,7 +2978,7 @@
         "date": "1900-01-03",
         "name": "Andrey Esipenko",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -3034,7 +3034,7 @@
         "date": "1900-01-03",
         "name": "Maksim Tsaruk",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
@@ -3055,7 +3055,7 @@
         "date": "1900-01-03",
         "name": "Aleksandr Shimanov",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -3097,7 +3097,7 @@
         "date": "1900-01-03",
         "name": "Aleksandr Rakhmanov",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -3216,7 +3216,7 @@
         "date": "1900-01-03",
         "name": "Arseniy Nesterov",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -3356,7 +3356,7 @@
         "date": "1900-01-03",
         "name": "Aleksey Grebnev",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -3510,7 +3510,7 @@
         "date": "1900-01-03",
         "name": "Rudik Makarian",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
@@ -3531,7 +3531,7 @@
         "date": "1900-01-03",
         "name": "Semen Khanin",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -3790,7 +3790,7 @@
         "date": "1900-01-04",
         "name": "Aleksandr Shimanov",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -3825,7 +3825,7 @@
         "date": "1900-01-04",
         "name": "Volodar Murzin",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -3923,7 +3923,7 @@
         "date": "1900-01-04",
         "name": "Daniil Dubov",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -3944,7 +3944,7 @@
         "date": "1900-01-04",
         "name": "Alexander Grischuk",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -3993,7 +3993,7 @@
         "date": "1900-01-04",
         "name": "Ian Nepomniachtchi",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -4070,7 +4070,7 @@
         "date": "1900-01-04",
         "name": "Aleksandr Rakhmanov",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -4140,14 +4140,14 @@
         "date": "1900-01-04",
         "name": "Mikhail Kobalia",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
         "date": "1900-01-04",
         "name": "Maksim Tsaruk",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
@@ -4357,21 +4357,21 @@
         "date": "1900-01-04",
         "name": "Andrey Esipenko",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
         "date": "1900-01-04",
         "name": "Ivan Zemlyanskii",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
         "date": "1900-01-04",
         "name": "Rudik Makarian",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
@@ -4392,7 +4392,7 @@
         "date": "1900-01-04",
         "name": "Semen Khanin",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -4427,7 +4427,7 @@
         "date": "1900-01-04",
         "name": "David Paravyan",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -4455,7 +4455,7 @@
         "date": "1900-01-04",
         "name": "Denis Lazavik",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -4497,7 +4497,7 @@
         "date": "1900-01-04",
         "name": "Arseniy Nesterov",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -4763,7 +4763,7 @@
         "date": "1900-01-04",
         "name": "Aleksey Grebnev",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -5043,7 +5043,7 @@
         "date": "1900-01-05",
         "name": "Denis Lazavik",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -5078,7 +5078,7 @@
         "date": "1900-01-05",
         "name": "Volodar Murzin",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -5288,7 +5288,7 @@
         "date": "1900-01-05",
         "name": "Daniil Dubov",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -5316,7 +5316,7 @@
         "date": "1900-01-05",
         "name": "Arseniy Nesterov",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -5330,14 +5330,14 @@
         "date": "1900-01-05",
         "name": "Ian Nepomniachtchi",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
         "date": "1900-01-05",
         "name": "Alexander Grischuk",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -5379,14 +5379,14 @@
         "date": "1900-01-05",
         "name": "Mikhail Kobalia",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
         "date": "1900-01-05",
         "name": "Andrey Esipenko",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -5428,7 +5428,7 @@
         "date": "1900-01-05",
         "name": "Maksim Tsaruk",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
@@ -5519,7 +5519,7 @@
         "date": "1900-01-05",
         "name": "Aleksandr Shimanov",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -5617,7 +5617,7 @@
         "date": "1900-01-05",
         "name": "Rudik Makarian",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
@@ -5638,7 +5638,7 @@
         "date": "1900-01-05",
         "name": "Aleksey Grebnev",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -5687,7 +5687,7 @@
         "date": "1900-01-05",
         "name": "Aleksandr Rakhmanov",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -5701,7 +5701,7 @@
         "date": "1900-01-05",
         "name": "Semen Khanin",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -5904,7 +5904,7 @@
         "date": "1900-01-05",
         "name": "David Paravyan",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -6009,7 +6009,7 @@
         "date": "1900-01-05",
         "name": "Ivan Zemlyanskii",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -6317,7 +6317,7 @@
         "date": "1900-01-06",
         "name": "Volodar Murzin",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -6464,7 +6464,7 @@
         "date": "1900-01-06",
         "name": "Aleksandr Shimanov",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -6485,14 +6485,14 @@
         "date": "1900-01-06",
         "name": "Daniil Dubov",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
         "date": "1900-01-06",
         "name": "Denis Lazavik",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -6506,14 +6506,14 @@
         "date": "1900-01-06",
         "name": "Alexander Grischuk",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
         "date": "1900-01-06",
         "name": "Andrey Esipenko",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -6597,7 +6597,7 @@
         "date": "1900-01-06",
         "name": "Maksim Tsaruk",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
@@ -6653,14 +6653,14 @@
         "date": "1900-01-06",
         "name": "Ian Nepomniachtchi",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
         "date": "1900-01-06",
         "name": "Aleksandr Rakhmanov",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -6716,7 +6716,7 @@
         "date": "1900-01-06",
         "name": "Rudik Makarian",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
@@ -6765,7 +6765,7 @@
         "date": "1900-01-06",
         "name": "Arseniy Nesterov",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -6807,7 +6807,7 @@
         "date": "1900-01-06",
         "name": "Aleksey Grebnev",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -6828,7 +6828,7 @@
         "date": "1900-01-06",
         "name": "Ivan Zemlyanskii",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -6842,7 +6842,7 @@
         "date": "1900-01-06",
         "name": "Semen Khanin",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -6919,7 +6919,7 @@
         "date": "1900-01-06",
         "name": "David Paravyan",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -7010,7 +7010,7 @@
         "date": "1900-01-06",
         "name": "Mikhail Kobalia",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -7612,7 +7612,7 @@
         "date": "1900-01-07",
         "name": "Volodar Murzin",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -7689,7 +7689,7 @@
         "date": "1900-01-07",
         "name": "Alexander Grischuk",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -7738,7 +7738,7 @@
         "date": "1900-01-07",
         "name": "Ian Nepomniachtchi",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -7752,7 +7752,7 @@
         "date": "1900-01-07",
         "name": "Arseniy Nesterov",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -7787,7 +7787,7 @@
         "date": "1900-01-07",
         "name": "Denis Lazavik",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -7808,7 +7808,7 @@
         "date": "1900-01-07",
         "name": "Daniil Dubov",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -7836,7 +7836,7 @@
         "date": "1900-01-07",
         "name": "Andrey Esipenko",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -7969,7 +7969,7 @@
         "date": "1900-01-07",
         "name": "Rudik Makarian",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
@@ -7983,7 +7983,7 @@
         "date": "1900-01-07",
         "name": "Ivan Zemlyanskii",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -8004,7 +8004,7 @@
         "date": "1900-01-07",
         "name": "Maksim Tsaruk",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
@@ -8053,7 +8053,7 @@
         "date": "1900-01-07",
         "name": "Aleksandr Shimanov",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -8074,7 +8074,7 @@
         "date": "1900-01-07",
         "name": "David Paravyan",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -8193,7 +8193,7 @@
         "date": "1900-01-07",
         "name": "Semen Khanin",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -8214,7 +8214,7 @@
         "date": "1900-01-07",
         "name": "Aleksey Grebnev",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -8263,7 +8263,7 @@
         "date": "1900-01-07",
         "name": "Aleksandr Rakhmanov",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -8417,7 +8417,7 @@
         "date": "1900-01-07",
         "name": "Mikhail Kobalia",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -8879,7 +8879,7 @@
         "date": "1900-01-08",
         "name": "Volodar Murzin",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -8900,14 +8900,14 @@
         "date": "1900-01-08",
         "name": "Alexander Grischuk",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
         "date": "1900-01-08",
         "name": "Andrey Esipenko",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -8998,14 +8998,14 @@
         "date": "1900-01-08",
         "name": "Denis Lazavik",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
         "date": "1900-01-08",
         "name": "Ian Nepomniachtchi",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -9033,7 +9033,7 @@
         "date": "1900-01-08",
         "name": "Daniil Dubov",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -9082,7 +9082,7 @@
         "date": "1900-01-08",
         "name": "Rudik Makarian",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
@@ -9173,7 +9173,7 @@
         "date": "1900-01-08",
         "name": "David Paravyan",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -9215,7 +9215,7 @@
         "date": "1900-01-08",
         "name": "Arseniy Nesterov",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -9306,7 +9306,7 @@
         "date": "1900-01-08",
         "name": "Aleksandr Shimanov",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -9334,7 +9334,7 @@
         "date": "1900-01-08",
         "name": "Aleksandr Rakhmanov",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -9383,7 +9383,7 @@
         "date": "1900-01-08",
         "name": "Ivan Zemlyanskii",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -9425,7 +9425,7 @@
         "date": "1900-01-08",
         "name": "Aleksey Grebnev",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -9446,14 +9446,14 @@
         "date": "1900-01-08",
         "name": "Semen Khanin",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
         "date": "1900-01-08",
         "name": "Maksim Tsaruk",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
@@ -9726,7 +9726,7 @@
         "date": "1900-01-08",
         "name": "Mikhail Kobalia",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -10097,7 +10097,7 @@
         "date": "1900-01-09",
         "name": "Alexander Grischuk",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -10118,7 +10118,7 @@
         "date": "1900-01-09",
         "name": "Volodar Murzin",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -10132,7 +10132,7 @@
         "date": "1900-01-09",
         "name": "Andrey Esipenko",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -10167,7 +10167,7 @@
         "date": "1900-01-09",
         "name": "Ian Nepomniachtchi",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -10237,7 +10237,7 @@
         "date": "1900-01-09",
         "name": "Denis Lazavik",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -10286,7 +10286,7 @@
         "date": "1900-01-09",
         "name": "David Paravyan",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -10356,7 +10356,7 @@
         "date": "1900-01-09",
         "name": "Daniil Dubov",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -10489,7 +10489,7 @@
         "date": "1900-01-09",
         "name": "Rudik Makarian",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
@@ -10601,7 +10601,7 @@
         "date": "1900-01-09",
         "name": "Arseniy Nesterov",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -10664,7 +10664,7 @@
         "date": "1900-01-09",
         "name": "Aleksey Grebnev",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -10727,7 +10727,7 @@
         "date": "1900-01-09",
         "name": "Semen Khanin",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -10755,7 +10755,7 @@
         "date": "1900-01-09",
         "name": "Aleksandr Shimanov",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -10783,7 +10783,7 @@
         "date": "1900-01-09",
         "name": "Aleksandr Rakhmanov",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -10860,7 +10860,7 @@
         "date": "1900-01-09",
         "name": "Maksim Tsaruk",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
@@ -10958,7 +10958,7 @@
         "date": "1900-01-09",
         "name": "Ivan Zemlyanskii",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -11063,7 +11063,7 @@
         "date": "1900-01-09",
         "name": "Mikhail Kobalia",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -11329,7 +11329,7 @@
         "date": "1900-01-10",
         "name": "Volodar Murzin",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -11343,7 +11343,7 @@
         "date": "1900-01-10",
         "name": "Alexander Grischuk",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -11364,7 +11364,7 @@
         "date": "1900-01-10",
         "name": "Ian Nepomniachtchi",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -11378,14 +11378,14 @@
         "date": "1900-01-10",
         "name": "Denis Lazavik",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
         "date": "1900-01-10",
         "name": "Andrey Esipenko",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -11525,7 +11525,7 @@
         "date": "1900-01-10",
         "name": "Daniil Dubov",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -11714,7 +11714,7 @@
         "date": "1900-01-10",
         "name": "Aleksandr Rakhmanov",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -11826,14 +11826,14 @@
         "date": "1900-01-10",
         "name": "Rudik Makarian",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
         "date": "1900-01-10",
         "name": "Semen Khanin",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -11868,14 +11868,14 @@
         "date": "1900-01-10",
         "name": "Aleksandr Shimanov",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
         "date": "1900-01-10",
         "name": "David Paravyan",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -11924,7 +11924,7 @@
         "date": "1900-01-10",
         "name": "Ivan Zemlyanskii",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -11994,7 +11994,7 @@
         "date": "1900-01-10",
         "name": "Arseniy Nesterov",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -12078,7 +12078,7 @@
         "date": "1900-01-10",
         "name": "Maksim Tsaruk",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
@@ -12162,7 +12162,7 @@
         "date": "1900-01-10",
         "name": "Aleksey Grebnev",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -12274,7 +12274,7 @@
         "date": "1900-01-10",
         "name": "Mikhail Kobalia",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -12561,21 +12561,21 @@
         "date": "1900-01-11",
         "name": "Volodar Murzin",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
         "date": "1900-01-11",
         "name": "Alexander Grischuk",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
         "date": "1900-01-11",
         "name": "Ian Nepomniachtchi",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -12596,7 +12596,7 @@
         "date": "1900-01-11",
         "name": "Daniil Dubov",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -12624,7 +12624,7 @@
         "date": "1900-01-11",
         "name": "Andrey Esipenko",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -12673,7 +12673,7 @@
         "date": "1900-01-11",
         "name": "Denis Lazavik",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -12813,7 +12813,7 @@
         "date": "1900-01-11",
         "name": "Aleksandr Shimanov",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -12953,7 +12953,7 @@
         "date": "1900-01-11",
         "name": "Ivan Zemlyanskii",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -12981,7 +12981,7 @@
         "date": "1900-01-11",
         "name": "Arseniy Nesterov",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -13016,7 +13016,7 @@
         "date": "1900-01-11",
         "name": "Semen Khanin",
         "value": 0,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -13086,7 +13086,7 @@
         "date": "1900-01-11",
         "name": "David Paravyan",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -13121,7 +13121,7 @@
         "date": "1900-01-11",
         "name": "Aleksandr Rakhmanov",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -13177,7 +13177,7 @@
         "date": "1900-01-11",
         "name": "Maksim Tsaruk",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
@@ -13261,7 +13261,7 @@
         "date": "1900-01-11",
         "name": "Rudik Makarian",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "IM"
     },
     {
@@ -13387,7 +13387,7 @@
         "date": "1900-01-11",
         "name": "Aleksey Grebnev",
         "value": 1,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
@@ -13513,7 +13513,7 @@
         "date": "1900-01-11",
         "name": "Mikhail Kobalia",
         "value": 0.5,
-        "icon": "https://flagsapi.com/UN/flat/64.png",
+        "icon": "https://results.fide.com/wrbc2024/images/flags/FID.png",
         "group": "GM"
     },
     {
