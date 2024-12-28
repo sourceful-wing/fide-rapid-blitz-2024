@@ -1,0 +1,1262 @@
+[
+  {
+    "date": "1900-01-07",
+    "name": "Daniel Dardha",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Magnus Carlsen",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Daniel Naroditsky",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Nodirbek Abdusattorov",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Leinier Dominguez Perez",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Anish Giri",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Arjun Erigaisi",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Volodar Murzin",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Alireza Firouzja",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Shant Sargsyan",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Sam Shankland",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Fabiano Caruana",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Hikaru Nakamura",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Samuel Sevian",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Jan-Krzysztof Duda",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Brandon Jacobson",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Alan Pichot",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Shakhriyar Mamedyarov",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Alexander Grischuk",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Sugar Gan-Erdene",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Isik Can",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Javokhir Sindarov",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "V Pranav",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Karen H. Grigoryan",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Xiangzhi Bu",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Ian Nepomniachtchi",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Levon Aronian",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Arseniy Nesterov",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Semyon Lomasov",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Wesley So",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Aryan Tari",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Yangyi Yu",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Denis Lazavik",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "R Praggnanandhaa",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Vasif Durarbayli",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Daniil Dubov",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Kazybek Nogerbek",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Ray Robson",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Jonas Buhl Bjerre",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Andrey Esipenko",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Rinat Jumabayev",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Shanglei Lu",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Bogdan-Daniel Deac",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Nikolas Theodorou",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Raunak Sadhwani",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Diptayan Ghosh",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Arystan Isanzhulov",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Alexander Donchenko",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Aydin Suleymanli",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Maxime Vachier-Lagrave",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Olexandr Bortnyk",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Fidel Corrales Jimenez",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Ehsan Ghaem Maghami",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Boris Gelfand",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Awonder Liang",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Rasmus Svane",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Aleksandr Lenderman",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Mahammad Muradli",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Rudik Makarian",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Hans Moke Niemann",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Ivan Zemlyanskii",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Matthias Bluebaum",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Varuzhan Akobian",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Maksim Tsaruk",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Jakhongir Vakhidov",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Tigran L. Petrosian",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Frederik Svane",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Benjamin Bok",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Mikhail Al. Antipov",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Ramazan Zhalmakhanov",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Aleksandr Shimanov",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Emin Ohanyan",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Edgar Mamedov",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "David Paravyan",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Nico Chasin",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Andrew Hong",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Yi Wei",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Victor Bologan",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Jeffery Xiong",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Shamsiddin Vokhidov",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Andy Woodward",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Alexander Onischuk",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Quang Liem Le",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Luca Jr Moroni",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Aram Hakobyan",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Jorden van Foreest",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Dambasuren Batsuren",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Vasyl Ivanchuk",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Andrew Tang",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "David Anton Guijarro",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Semen Khanin",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Zaven Andriasian",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Georg Meier",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Aleksey Grebnev",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Eltaj Safarli",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Minh Le Tuan",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Haik M. Martirosyan",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Pablo Zarnicki",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Andrei Volokitin",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Read Samadov",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Aleksandr Rakhmanov",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Ganzorig Amartuvshin",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Chithambaram Vr. Aravindh",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Brewington Hardaway",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Adelard Bai",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Grigoriy Oparin",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Alexey Sarana",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Oleksii Bilych",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "A.R. Saleh Salem",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Gleb Dudin",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Ivan Cheparinov",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Viktor Matviishen",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Juraj Druska",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Laurent Fressinet",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Michael Bezold",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Nderim Saraci",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Robby Kevlishvili",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Venkataraman Karthik",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Nikolozi Kacharava",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Jose Carlos Ibarra Jerez",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Elshan Moradiabadi",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Alisher Suleymenov",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Mikhail Kobalia",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Rishi Sardana",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Bharathakoti Harsha",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Vuk Damjanovic",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Denis Kadric",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Andrei Macovei",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Ioan-Cristian Chirila",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Aziz Degenbaev",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "FM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Vugar Manafov",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Elham Amar",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "David Brodsky",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Tanitoluwa Adewumi",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "FM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Ilan Schnaider",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Joel Benjamin",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Huy Banh Gia",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Johan-Sebastian Christiansen",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Mark Smirnov",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "FM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Lorenzo Lodici",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Dennis Wagner",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Oliver Barbosa",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Aleksandar Indjic",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Felix Blohberger",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Alexandros Papasimakopoulos",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "FM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Robert Hovhannisyan",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Mads Andersen",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Alder Escobar Forero",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Sergey Erenburg",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Faustino Oro",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Valentin Dragnev",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Karolis Juksta",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Yiping Lou",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Eric Rosen",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Merab Gagunashvili",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Kevin George",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Mukhiddin Madaminov",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Reja Neer Manon",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Aldiyar Ansat",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Sandipan Chanda",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Maxim Dlugy",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Robert Hungaski",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Gabriel Gaehwiler",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Vugar Rasulov",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Dominik Horvath",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Aksel Bu Kvaloy",
+    "value": 0.5,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Fabian Pereira",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "CM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Arystanbek Urazayev",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Andre Meylan",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "CM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Shiyam Thavandiran",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Luis Enrique Esquivel Golcher",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "FM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Manuel Larrea",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "FM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Emir Sharshenbekov",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "CM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Nidal Ahmed",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": null
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Kai Jie Soo",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "FM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Hayoung Wong",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": null
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Helgi Ass Gretarsson",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "GM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Rodwell Makoto",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "IM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Vidar Grahn",
+    "value": 0,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "FM"
+  },
+  {
+    "date": "1900-01-07",
+    "name": "Harold Wanyama",
+    "value": 1,
+    "icon": "https://flagsapi.com/UN/flat/64.png",
+    "group": "FM"
+  }
+]

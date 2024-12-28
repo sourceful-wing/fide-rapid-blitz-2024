@@ -1,0 +1,90 @@
+1	 125		 GM	Dudin, Gleb	 2436	 2	 ½ - ½	 1.5	 GM	Carlsen, Magnus	 2838		 1
+2	 36		 GM	Deac, Bogdan-Daniel	 2635	 2	 ½ - ½	 2	 GM	Vachier-Lagrave, Maxime	 2763		 3
+3	 6		 GM	Aronian, Levon	 2757	 2	 ½ - ½	 2	 GM	Andriasian, Zaven	 2624		 39
+4	 42		 GM	Lenderman, Aleksandr	 2621	 2	 1 - 0	 2	 GM	Abdusattorov, Nodirbek	 2740		 9
+5	 14		 GM	Dominguez Perez, Leinier	 2699	 2	 1 - 0	 2	 GM	Niemann, Hans Moke	 2618		 43
+6	 44		 GM	Shankland, Sam	 2618	 2	 ½ - ½	 2	 GM	Yu, Yangyi	 2698		 15
+7	 16		 GM	Erigaisi, Arjun	 2694	 2	 0 - 1	 2	 GM	Sevian, Samuel	 2614		 45
+8	 46		 GM	Safarli, Eltaj	 2611	 2	 1 - 0	 2	 GM	Praggnanandhaa, R	 2688		 17
+9	 18		 GM	Giri, Anish	 2678	 2	 1 - 0	 2	 GM	Petrosian, Tigran L.	 2601		 51
+10	 48		 GM	Martirosyan, Haik M.	 2609	 2	 ½ - ½	 2	 GM	Dubov, Daniil	 2677		 19
+11	 24		 GM	Sindarov, Javokhir	 2655	 2	 ½ - ½	 2	 GM	Bok, Benjamin	 2596		 55
+12	 52		 GM	Sargsyan, Shant	 2601	 2	 1 - 0	 2	 GM	Ivanchuk, Vasyl	 2647		 27
+13	 30		 GM	Bortnyk, Olexandr	 2642	 2	 0 - 1	 2	 GM	Murzin, Volodar	 2588		 59
+14	 58		 GM	Sadhwani, Raunak	 2591	 2	 1 - 0	 2	 GM	Lu, Shanglei	 2638		 33
+15	 34		 GM	Naroditsky, Daniel	 2638	 2	 ½ - ½	 2	 FM	Adewumi, Tanitoluwa	 2262		 162
+16	 4		 GM	Wei, Yi	 2760	 1.5	 ½ - ½	 1.5	 GM	Fressinet, Laurent	 2598		 53
+17	 57		 GM	Pichot, Alan	 2591	 1.5	 ½ - ½	 1.5	 GM	Nepomniachtchi, Ian	 2758		 5
+18	 8		 GM	Nakamura, Hikaru	 2755	 1.5	 ½ - ½	 1.5	 GM	Donchenko, Alexander	 2578		 61
+19	 10		 GM	Duda, Jan-Krzysztof	 2740	 1.5	 1 - 0	 1.5	 GM	Paravyan, David	 2562		 67
+20	 70		 GM	Lomasov, Semyon	 2560	 1.5	 0 - 1	 1.5	 GM	Mamedyarov, Shakhriyar	 2711		 13
+21	 20		 GM	Grischuk, Alexander	 2675	 1.5	 1 - 0	 1.5	 GM	Lazavik, Denis	 2553		 75
+22	 80		 GM	Vokhidov, Shamsiddin	 2540	 1.5	 ½ - ½	 1.5	 GM	Onischuk, Alexander	 2668		 21
+23	 84		 GM	Durarbayli, Vasif	 2531	 1.5	 1 - 0	 1.5	 GM	Oparin, Grigoriy	 2655		 23
+24	 90		 GM	Kobalia, Mikhail	 2522	 1.5	 ½ - ½	 1.5	 GM	Sarana, Alexey	 2654		 25
+25	 28		 GM	Salem, A.R. Saleh	 2647	 1.5	 0 - 1	 1.5	 GM	Woodward, Andy	 2530		 85
+26	 103		 GM	Zemlyanskii, Ivan	 2495	 1.5	 0 - 1	 1.5	 GM	Robson, Ray	 2645		 29
+27	 165		 IM	Bai, Adelard	 2232	 1.5	 ½ - ½	 1.5	 GM	Gelfand, Boris	 2630		 37
+28	 38		 GM	Svane, Rasmus	 2629	 1.5	 1 - 0	 1.5	 GM	Rasulov, Vugar	 2456		 118
+29	 40		 GM	Meier, Georg	 2624	 1.5	 0 - 1	 1.5	 GM	Jacobson, Brandon	 2459		 116
+30	 173		 IM	Hardaway, Brewington	 2181	 1.5	 ½ - ½	 1.5	 GM	Bluebaum, Matthias	 2608		 49
+31	 2		 GM	Caruana, Fabiano	 2766	 1	 1 - 0	 1	 GM	Brodsky, David	 2491		 106
+32	 105		 GM	Le Tuan, Minh	 2492	 1	 0 - 1	 1	 GM	Firouzja, Alireza	 2756		 7
+33	 110		 IM	Lou, Yiping	 2471	 1	 ½ - ½	 1	 GM	Esipenko, Andrey	 2642		 31
+34	 112		 GM	Vakhidov, Jakhongir	 2466	 1	 ½ - ½	 1	 GM	Anton Guijarro, David	 2635		 35
+35	 114		 GM	Gagunashvili, Merab	 2460	 1	 0 - 1	 1	 GM	Grigoryan, Karen H.	 2622		 41
+36	 50		 GM	Akobian, Varuzhan	 2604	 1	 1 - 0	 1	 GM	Ghosh, Diptayan	 2455		 120
+37	 54		 GM	Indjic, Aleksandar	 2598	 1	 0 - 1	 1	 IM	Tsaruk, Maksim	 2437		 124
+38	 56		 GM	Antipov, Mikhail Al.	 2591	 1	 1 - 0	 1	 GM	Matviishen, Viktor	 2436		 126
+39	 62		 GM	Shimanov, Aleksandr	 2578	 1	 1 - 0	 1	 IM	Samadov, Read	 2434		 128
+40	 115		 GM	Zarnicki, Pablo	 2460	 1	 ½ - ½	 1	 GM	Bu, Xiangzhi	 2569		 65
+41	 66		 GM	Volokitin, Andrei	 2569	 1	 1 - 0	 1	 GM	Zhalmakhanov, Ramazan	 2423		 134
+42	 68		 GM	Rakhmanov, Aleksandr	 2561	 1	 1 - 0	 1	 GM	Suleymenov, Alisher	 2413		 138
+43	 117		 GM	Madaminov, Mukhiddin	 2456	 1	 0 - 1	 1	 GM	Hong, Andrew	 2560		 69
+44	 119		 GM	Wagner, Dennis	 2456	 1	 0 - 1	 1	 GM	Tari, Aryan	 2559		 71
+45	 121		 GM	Svane, Frederik	 2455	 1	 1 - 0	 1	 GM	Ibarra Jerez, Jose Carlos	 2555		 73
+46	 74		 GM	Dardha, Daniel	 2554	 1	 0 - 1	 1	 GM	Escobar Forero, Alder	 2409		 140
+47	 76		 GM	Moradiabadi, Elshan	 2552	 1	 ½ - ½	 1	 IM	Gan-Erdene, Sugar	 2405		 144
+48	 78		 GM	Aravindh, Chithambaram Vr.	 2546	 1	 ½ - ½	 1	 IM	Macovei, Andrei	 2375		 150
+49	 123		 IM	Bilych, Oleksii	 2450	 1	 1 - 0	 1	 GM	Bologan, Victor	 2540		 79
+50	 131		 IM	Isanzhulov, Arystan	 2427	 1	 ½ - ½	 1	 GM	Nesterov, Arseniy	 2539		 81
+51	 82		 GM	Dlugy, Maxim	 2538	 1	 0 - 1	 1	 IM	Mamedov, Edgar	 2356		 152
+52	 86		 GM	Nogerbek, Kazybek	 2526	 1	 1 - 0	 1	 IM	Manafov, Vugar	 2349		 154
+53	 137		 FM	Papasimakopoulos, Alexandros	 2417	 1	 0 - 1	 1	 GM	Moroni, Luca Jr	 2525		 87
+54	 88		 GM	Bjerre, Jonas Buhl	 2524	 1	 1 - 0	 1	 IM	Rosen, Eric	 2325		 156
+55	 151		 IM	Can, Isik	 2371	 1	 1 - 0	 1	 GM	Ghaem Maghami, Ehsan	 2522		 89
+56	 153		 IM	Gaehwiler, Gabriel	 2353	 1	 0 - 1	 1	 GM	Corrales Jimenez, Fidel	 2516		 92
+57	 93		 GM	Harsha, Bharathakoti	 2516	 1	 0 - 1	 1	 IM	Chasin, Nico	 2300		 158
+58	 155		 IM	Ansat, Aldiyar	 2338	 1	 1 - 0	 1	 GM	Hakobyan, Aram	 2513		 94
+59	 99		 GM	Chirila, Ioan-Cristian	 2500	 1	 ½ - ½	 1	 GM	Ohanyan, Emin	 2295		 160
+60	 159		 IM	Amartuvshin, Ganzorig	 2298	 1	 1 - 0	 1	 GM	Grebnev, Aleksey	 2496		 102
+61	 178		 FM	Smirnov, Mark	 2045	 1	 1 - 0	 1	 GM	Amar, Elham	 2494		 104
+62	 32		 GM	Cheparinov, Ivan	 2638	 0.5	 1 - 0	 1	 IM	Banh Gia, Huy	 2203		 170
+63	 111		 GM	Christiansen, Johan-Sebastian	 2468	 0.5	 0 - 1	 0.5	 GM	So, Wesley	 2739		 11
+64	 12		 GM	Xiong, Jeffery	 2714	 0.5	 0 - 1	 0.5	 GM	Muradli, Mahammad	 2464		 113
+65	 139		 GM	Karthik, Venkataraman	 2411	 0.5	 1 - 0	 0.5	 GM	Hovhannisyan, Robert	 2575		 63
+66	 133		 GM	Blohberger, Felix	 2423	 0.5	 ½ - ½	 0.5	 GM	Suleymanli, Aydin	 2549		 77
+67	 143		 GM	Kacharava, Nikolozi	 2405	 0.5	 ½ - ½	 0.5	 GM	Theodorou, Nikolas	 2535		 83
+68	 91		 GM	Liang, Awonder	 2519	 0.5	 0 - 1	 0.5	 GM	Lodici, Lorenzo	 2450		 122
+69	 95		 GM	Kadric, Denis	 2513	 0.5	 1 - 0	 0.5	 GM	Horvath, Dominik	 2430		 130
+70	 147		 GM	Hungaski, Robert	 2402	 0.5	 0 - 1	 0.5	 GM	Jumabayev, Rinat	 2503		 98
+71	 157		 IM	Juksta, Karolis	 2309	 0.5	 0 - 1	 0.5	 IM	Makarian, Rudik	 2498		 100
+72	 101		 GM	Pranav, V	 2497	 0.5	 1 - 0	 0.5	 IM	George, Kevin	 2212		 168
+73	 107		 GM	Khanin, Semen	 2484	 0.5	 1 - 0	 0.5	 FM	Grahn, Vidar	 2206		 169
+74	 167		 IM	Kvaloy, Aksel Bu	 2226	 0.5	 1 - 0	 0.5	 GM	Benjamin, Joel	 2473		 108
+75	 22		 GM	Le, Quang Liem	 2657	 0	 1 - 0	 0	 IM	Thavandiran, Shiyam	 2405		 145
+76	 26		 GM	van Foreest, Jorden	 2651	 0	 1 - 0	 0	 IM	Oro, Faustino	 2404		 146
+77	 149		 IM	Damjanovic, Vuk	 2375	 0	 1 - 0	 0	 GM	Barbosa, Oliver	 2610		 47
+78	 60		 GM	Chanda, Sandipan	 2585	 0	 1 - 0	 0	 GM	Gretarsson, Helgi Ass	 2392		 148
+79	 64		 GM	Bezold, Michael	 2574	 0	 ½ - ½	 0	 IM	Schnaider, Ilan	 2285		 161
+80	 72		 GM	Kevlishvili, Robby	 2558	 0	 1 - 0	 0	 FM	Larrea, Manuel	 2254		 163
+81	 171		 IM	Manon, Reja Neer	 2193	 0	 0 - 1	 0	 GM	Andersen, Mads	 2512		 96
+82	 97		 GM	Erenburg, Sergey	 2510	 0	 1 - 0	 0	 CM	Sharshenbekov, Emir	 2243		 164
+83	 109		 GM	Dragnev, Valentin	 2473	 0	 0 - 1	 0	 FM	Degenbaev, Aziz	 2227		 166
+84	 127		 GM	Batsuren, Dambasuren	 2435	 0	 1 - 0	 0	 FM	Wanyama, Harold	 2191		 172
+85	 129		 IM	Druska, Juraj	 2433	 0	 ½ - ½	 0	 CM	Pereira, Fabian	 2148		 174
+86	 175		 FM	Soo, Kai Jie	 2112	 0	 0 - 1	 0	 GM	Tang, Andrew	 2425		 132
+87	 135		 IM	Urazayev, Arystanbek	 2423	 0	 1 - 0	 0	 CM	Meylan, Andre	 2083		 176
+88	 177		 FM	Esquivel Golcher, Luis Enrique	 2073	 0	 0 - 1	 0	 IM	Saraci, Nderim	 2419		 136
+89	 141		 IM	Sardana, Rishi	 2409	 0	 1 - 0	 0	 	Wong, Hayoung	 1704		 180
+90	 179		 	Ahmed, Nidal	 1827	 0	 1 - 0	 0	 IM	Makoto, Rodwell	 2407		 142

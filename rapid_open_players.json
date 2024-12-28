@@ -1,0 +1,1262 @@
+[
+  {
+    "rank": 1,
+    "country": "NOR",
+    "title": "GM",
+    "player": "Carlsen, Magnus",
+    "rating": 2838
+  },
+  {
+    "rank": 2,
+    "country": "USA",
+    "title": "GM",
+    "player": "Caruana, Fabiano",
+    "rating": 2766
+  },
+  {
+    "rank": 3,
+    "country": "FRA",
+    "title": "GM",
+    "player": "Vachier-Lagrave, Maxime",
+    "rating": 2763
+  },
+  {
+    "rank": 4,
+    "country": "CHN",
+    "title": "GM",
+    "player": "Wei, Yi",
+    "rating": 2760
+  },
+  {
+    "rank": 5,
+    "country": "FID",
+    "title": "GM",
+    "player": "Nepomniachtchi, Ian",
+    "rating": 2758
+  },
+  {
+    "rank": 6,
+    "country": "USA",
+    "title": "GM",
+    "player": "Aronian, Levon",
+    "rating": 2757
+  },
+  {
+    "rank": 7,
+    "country": "FRA",
+    "title": "GM",
+    "player": "Firouzja, Alireza",
+    "rating": 2756
+  },
+  {
+    "rank": 8,
+    "country": "USA",
+    "title": "GM",
+    "player": "Nakamura, Hikaru",
+    "rating": 2755
+  },
+  {
+    "rank": 9,
+    "country": "UZB",
+    "title": "GM",
+    "player": "Abdusattorov, Nodirbek",
+    "rating": 2740
+  },
+  {
+    "rank": 10,
+    "country": "POL",
+    "title": "GM",
+    "player": "Duda, Jan-Krzysztof",
+    "rating": 2740
+  },
+  {
+    "rank": 11,
+    "country": "USA",
+    "title": "GM",
+    "player": "So, Wesley",
+    "rating": 2739
+  },
+  {
+    "rank": 12,
+    "country": "USA",
+    "title": "GM",
+    "player": "Xiong, Jeffery",
+    "rating": 2714
+  },
+  {
+    "rank": 13,
+    "country": "AZE",
+    "title": "GM",
+    "player": "Mamedyarov, Shakhriyar",
+    "rating": 2711
+  },
+  {
+    "rank": 14,
+    "country": "USA",
+    "title": "GM",
+    "player": "Dominguez Perez, Leinier",
+    "rating": 2699
+  },
+  {
+    "rank": 15,
+    "country": "CHN",
+    "title": "GM",
+    "player": "Yu, Yangyi",
+    "rating": 2698
+  },
+  {
+    "rank": 16,
+    "country": "IND",
+    "title": "GM",
+    "player": "Erigaisi, Arjun",
+    "rating": 2694
+  },
+  {
+    "rank": 17,
+    "country": "IND",
+    "title": "GM",
+    "player": "Praggnanandhaa, R",
+    "rating": 2688
+  },
+  {
+    "rank": 18,
+    "country": "NED",
+    "title": "GM",
+    "player": "Giri, Anish",
+    "rating": 2678
+  },
+  {
+    "rank": 19,
+    "country": "FID",
+    "title": "GM",
+    "player": "Dubov, Daniil",
+    "rating": 2677
+  },
+  {
+    "rank": 20,
+    "country": "FID",
+    "title": "GM",
+    "player": "Grischuk, Alexander",
+    "rating": 2675
+  },
+  {
+    "rank": 21,
+    "country": "USA",
+    "title": "GM",
+    "player": "Onischuk, Alexander",
+    "rating": 2668
+  },
+  {
+    "rank": 22,
+    "country": "VIE",
+    "title": "GM",
+    "player": "Le, Quang Liem",
+    "rating": 2657
+  },
+  {
+    "rank": 23,
+    "country": "USA",
+    "title": "GM",
+    "player": "Oparin, Grigoriy",
+    "rating": 2655
+  },
+  {
+    "rank": 24,
+    "country": "UZB",
+    "title": "GM",
+    "player": "Sindarov, Javokhir",
+    "rating": 2655
+  },
+  {
+    "rank": 25,
+    "country": "SRB",
+    "title": "GM",
+    "player": "Sarana, Alexey",
+    "rating": 2654
+  },
+  {
+    "rank": 26,
+    "country": "NED",
+    "title": "GM",
+    "player": "van Foreest, Jorden",
+    "rating": 2651
+  },
+  {
+    "rank": 27,
+    "country": "UKR",
+    "title": "GM",
+    "player": "Ivanchuk, Vasyl",
+    "rating": 2647
+  },
+  {
+    "rank": 28,
+    "country": "UAE",
+    "title": "GM",
+    "player": "Salem, A.R. Saleh",
+    "rating": 2647
+  },
+  {
+    "rank": 29,
+    "country": "USA",
+    "title": "GM",
+    "player": "Robson, Ray",
+    "rating": 2645
+  },
+  {
+    "rank": 30,
+    "country": "UKR",
+    "title": "GM",
+    "player": "Bortnyk, Olexandr",
+    "rating": 2642
+  },
+  {
+    "rank": 31,
+    "country": "FID",
+    "title": "GM",
+    "player": "Esipenko, Andrey",
+    "rating": 2642
+  },
+  {
+    "rank": 32,
+    "country": "BUL",
+    "title": "GM",
+    "player": "Cheparinov, Ivan",
+    "rating": 2638
+  },
+  {
+    "rank": 33,
+    "country": "CHN",
+    "title": "GM",
+    "player": "Lu, Shanglei",
+    "rating": 2638
+  },
+  {
+    "rank": 34,
+    "country": "USA",
+    "title": "GM",
+    "player": "Naroditsky, Daniel",
+    "rating": 2638
+  },
+  {
+    "rank": 35,
+    "country": "ESP",
+    "title": "GM",
+    "player": "Anton Guijarro, David",
+    "rating": 2635
+  },
+  {
+    "rank": 36,
+    "country": "ROU",
+    "title": "GM",
+    "player": "Deac, Bogdan-Daniel",
+    "rating": 2635
+  },
+  {
+    "rank": 37,
+    "country": "ISR",
+    "title": "GM",
+    "player": "Gelfand, Boris",
+    "rating": 2630
+  },
+  {
+    "rank": 38,
+    "country": "GER",
+    "title": "GM",
+    "player": "Svane, Rasmus",
+    "rating": 2629
+  },
+  {
+    "rank": 39,
+    "country": "ARM",
+    "title": "GM",
+    "player": "Andriasian, Zaven",
+    "rating": 2624
+  },
+  {
+    "rank": 40,
+    "country": "URU",
+    "title": "GM",
+    "player": "Meier, Georg",
+    "rating": 2624
+  },
+  {
+    "rank": 41,
+    "country": "ARM",
+    "title": "GM",
+    "player": "Grigoryan, Karen H.",
+    "rating": 2622
+  },
+  {
+    "rank": 42,
+    "country": "USA",
+    "title": "GM",
+    "player": "Lenderman, Aleksandr",
+    "rating": 2621
+  },
+  {
+    "rank": 43,
+    "country": "USA",
+    "title": "GM",
+    "player": "Niemann, Hans Moke",
+    "rating": 2618
+  },
+  {
+    "rank": 44,
+    "country": "USA",
+    "title": "GM",
+    "player": "Shankland, Sam",
+    "rating": 2618
+  },
+  {
+    "rank": 45,
+    "country": "USA",
+    "title": "GM",
+    "player": "Sevian, Samuel",
+    "rating": 2614
+  },
+  {
+    "rank": 46,
+    "country": "AZE",
+    "title": "GM",
+    "player": "Safarli, Eltaj",
+    "rating": 2611
+  },
+  {
+    "rank": 47,
+    "country": "PHI",
+    "title": "GM",
+    "player": "Barbosa, Oliver",
+    "rating": 2610
+  },
+  {
+    "rank": 48,
+    "country": "ARM",
+    "title": "GM",
+    "player": "Martirosyan, Haik M.",
+    "rating": 2609
+  },
+  {
+    "rank": 49,
+    "country": "GER",
+    "title": "GM",
+    "player": "Bluebaum, Matthias",
+    "rating": 2608
+  },
+  {
+    "rank": 50,
+    "country": "USA",
+    "title": "GM",
+    "player": "Akobian, Varuzhan",
+    "rating": 2604
+  },
+  {
+    "rank": 51,
+    "country": "ARM",
+    "title": "GM",
+    "player": "Petrosian, Tigran L.",
+    "rating": 2601
+  },
+  {
+    "rank": 52,
+    "country": "ARM",
+    "title": "GM",
+    "player": "Sargsyan, Shant",
+    "rating": 2601
+  },
+  {
+    "rank": 53,
+    "country": "FRA",
+    "title": "GM",
+    "player": "Fressinet, Laurent",
+    "rating": 2598
+  },
+  {
+    "rank": 54,
+    "country": "SRB",
+    "title": "GM",
+    "player": "Indjic, Aleksandar",
+    "rating": 2598
+  },
+  {
+    "rank": 55,
+    "country": "NED",
+    "title": "GM",
+    "player": "Bok, Benjamin",
+    "rating": 2596
+  },
+  {
+    "rank": 56,
+    "country": "USA",
+    "title": "GM",
+    "player": "Antipov, Mikhail Al.",
+    "rating": 2591
+  },
+  {
+    "rank": 57,
+    "country": "ESP",
+    "title": "GM",
+    "player": "Pichot, Alan",
+    "rating": 2591
+  },
+  {
+    "rank": 58,
+    "country": "IND",
+    "title": "GM",
+    "player": "Sadhwani, Raunak",
+    "rating": 2591
+  },
+  {
+    "rank": 59,
+    "country": "FID",
+    "title": "GM",
+    "player": "Murzin, Volodar",
+    "rating": 2588
+  },
+  {
+    "rank": 60,
+    "country": "IND",
+    "title": "GM",
+    "player": "Chanda, Sandipan",
+    "rating": 2585
+  },
+  {
+    "rank": 61,
+    "country": "GER",
+    "title": "GM",
+    "player": "Donchenko, Alexander",
+    "rating": 2578
+  },
+  {
+    "rank": 62,
+    "country": "FID",
+    "title": "GM",
+    "player": "Shimanov, Aleksandr",
+    "rating": 2578
+  },
+  {
+    "rank": 63,
+    "country": "ARM",
+    "title": "GM",
+    "player": "Hovhannisyan, Robert",
+    "rating": 2575
+  },
+  {
+    "rank": 64,
+    "country": "GER",
+    "title": "GM",
+    "player": "Bezold, Michael",
+    "rating": 2574
+  },
+  {
+    "rank": 65,
+    "country": "CHN",
+    "title": "GM",
+    "player": "Bu, Xiangzhi",
+    "rating": 2569
+  },
+  {
+    "rank": 66,
+    "country": "UKR",
+    "title": "GM",
+    "player": "Volokitin, Andrei",
+    "rating": 2569
+  },
+  {
+    "rank": 67,
+    "country": "FID",
+    "title": "GM",
+    "player": "Paravyan, David",
+    "rating": 2562
+  },
+  {
+    "rank": 68,
+    "country": "FID",
+    "title": "GM",
+    "player": "Rakhmanov, Aleksandr",
+    "rating": 2561
+  },
+  {
+    "rank": 69,
+    "country": "USA",
+    "title": "GM",
+    "player": "Hong, Andrew",
+    "rating": 2560
+  },
+  {
+    "rank": 70,
+    "country": "ISR",
+    "title": "GM",
+    "player": "Lomasov, Semyon",
+    "rating": 2560
+  },
+  {
+    "rank": 71,
+    "country": "NOR",
+    "title": "GM",
+    "player": "Tari, Aryan",
+    "rating": 2559
+  },
+  {
+    "rank": 72,
+    "country": "NED",
+    "title": "GM",
+    "player": "Kevlishvili, Robby",
+    "rating": 2558
+  },
+  {
+    "rank": 73,
+    "country": "ESP",
+    "title": "GM",
+    "player": "Ibarra Jerez, Jose Carlos",
+    "rating": 2555
+  },
+  {
+    "rank": 74,
+    "country": "BEL",
+    "title": "GM",
+    "player": "Dardha, Daniel",
+    "rating": 2554
+  },
+  {
+    "rank": 75,
+    "country": "FID",
+    "title": "GM",
+    "player": "Lazavik, Denis",
+    "rating": 2553
+  },
+  {
+    "rank": 76,
+    "country": "USA",
+    "title": "GM",
+    "player": "Moradiabadi, Elshan",
+    "rating": 2552
+  },
+  {
+    "rank": 77,
+    "country": "AZE",
+    "title": "GM",
+    "player": "Suleymanli, Aydin",
+    "rating": 2549
+  },
+  {
+    "rank": 78,
+    "country": "IND",
+    "title": "GM",
+    "player": "Aravindh, Chithambaram Vr.",
+    "rating": 2546
+  },
+  {
+    "rank": 79,
+    "country": "MDA",
+    "title": "GM",
+    "player": "Bologan, Victor",
+    "rating": 2540
+  },
+  {
+    "rank": 80,
+    "country": "UZB",
+    "title": "GM",
+    "player": "Vokhidov, Shamsiddin",
+    "rating": 2540
+  },
+  {
+    "rank": 81,
+    "country": "FID",
+    "title": "GM",
+    "player": "Nesterov, Arseniy",
+    "rating": 2539
+  },
+  {
+    "rank": 82,
+    "country": "USA",
+    "title": "GM",
+    "player": "Dlugy, Maxim",
+    "rating": 2538
+  },
+  {
+    "rank": 83,
+    "country": "GRE",
+    "title": "GM",
+    "player": "Theodorou, Nikolas",
+    "rating": 2535
+  },
+  {
+    "rank": 84,
+    "country": "AZE",
+    "title": "GM",
+    "player": "Durarbayli, Vasif",
+    "rating": 2531
+  },
+  {
+    "rank": 85,
+    "country": "USA",
+    "title": "GM",
+    "player": "Woodward, Andy",
+    "rating": 2530
+  },
+  {
+    "rank": 86,
+    "country": "KAZ",
+    "title": "GM",
+    "player": "Nogerbek, Kazybek",
+    "rating": 2526
+  },
+  {
+    "rank": 87,
+    "country": "ITA",
+    "title": "GM",
+    "player": "Moroni, Luca Jr",
+    "rating": 2525
+  },
+  {
+    "rank": 88,
+    "country": "DEN",
+    "title": "GM",
+    "player": "Bjerre, Jonas Buhl",
+    "rating": 2524
+  },
+  {
+    "rank": 89,
+    "country": "IRI",
+    "title": "GM",
+    "player": "Ghaem Maghami, Ehsan",
+    "rating": 2522
+  },
+  {
+    "rank": 90,
+    "country": "FID",
+    "title": "GM",
+    "player": "Kobalia, Mikhail",
+    "rating": 2522
+  },
+  {
+    "rank": 91,
+    "country": "USA",
+    "title": "GM",
+    "player": "Liang, Awonder",
+    "rating": 2519
+  },
+  {
+    "rank": 92,
+    "country": "USA",
+    "title": "GM",
+    "player": "Corrales Jimenez, Fidel",
+    "rating": 2516
+  },
+  {
+    "rank": 93,
+    "country": "IND",
+    "title": "GM",
+    "player": "Harsha, Bharathakoti",
+    "rating": 2516
+  },
+  {
+    "rank": 94,
+    "country": "ARM",
+    "title": "GM",
+    "player": "Hakobyan, Aram",
+    "rating": 2513
+  },
+  {
+    "rank": 95,
+    "country": "MNE",
+    "title": "GM",
+    "player": "Kadric, Denis",
+    "rating": 2513
+  },
+  {
+    "rank": 96,
+    "country": "DEN",
+    "title": "GM",
+    "player": "Andersen, Mads",
+    "rating": 2512
+  },
+  {
+    "rank": 97,
+    "country": "USA",
+    "title": "GM",
+    "player": "Erenburg, Sergey",
+    "rating": 2510
+  },
+  {
+    "rank": 98,
+    "country": "KAZ",
+    "title": "GM",
+    "player": "Jumabayev, Rinat",
+    "rating": 2503
+  },
+  {
+    "rank": 99,
+    "country": "ROU",
+    "title": "GM",
+    "player": "Chirila, Ioan-Cristian",
+    "rating": 2500
+  },
+  {
+    "rank": 100,
+    "country": "FID",
+    "title": "IM",
+    "player": "Makarian, Rudik",
+    "rating": 2498
+  },
+  {
+    "rank": 101,
+    "country": "IND",
+    "title": "GM",
+    "player": "Pranav, V",
+    "rating": 2497
+  },
+  {
+    "rank": 102,
+    "country": "FID",
+    "title": "GM",
+    "player": "Grebnev, Aleksey",
+    "rating": 2496
+  },
+  {
+    "rank": 103,
+    "country": "FID",
+    "title": "GM",
+    "player": "Zemlyanskii, Ivan",
+    "rating": 2495
+  },
+  {
+    "rank": 104,
+    "country": "NOR",
+    "title": "GM",
+    "player": "Amar, Elham",
+    "rating": 2494
+  },
+  {
+    "rank": 105,
+    "country": "VIE",
+    "title": "GM",
+    "player": "Le Tuan, Minh",
+    "rating": 2492
+  },
+  {
+    "rank": 106,
+    "country": "USA",
+    "title": "GM",
+    "player": "Brodsky, David",
+    "rating": 2491
+  },
+  {
+    "rank": 107,
+    "country": "FID",
+    "title": "GM",
+    "player": "Khanin, Semen",
+    "rating": 2484
+  },
+  {
+    "rank": 108,
+    "country": "USA",
+    "title": "GM",
+    "player": "Benjamin, Joel",
+    "rating": 2473
+  },
+  {
+    "rank": 109,
+    "country": "AUT",
+    "title": "GM",
+    "player": "Dragnev, Valentin",
+    "rating": 2473
+  },
+  {
+    "rank": 110,
+    "country": "CHN",
+    "title": "IM",
+    "player": "Lou, Yiping",
+    "rating": 2471
+  },
+  {
+    "rank": 111,
+    "country": "NOR",
+    "title": "GM",
+    "player": "Christiansen, Johan-Sebastian",
+    "rating": 2468
+  },
+  {
+    "rank": 112,
+    "country": "UZB",
+    "title": "GM",
+    "player": "Vakhidov, Jakhongir",
+    "rating": 2466
+  },
+  {
+    "rank": 113,
+    "country": "AZE",
+    "title": "GM",
+    "player": "Muradli, Mahammad",
+    "rating": 2464
+  },
+  {
+    "rank": 114,
+    "country": "GEO",
+    "title": "GM",
+    "player": "Gagunashvili, Merab",
+    "rating": 2460
+  },
+  {
+    "rank": 115,
+    "country": "ARG",
+    "title": "GM",
+    "player": "Zarnicki, Pablo",
+    "rating": 2460
+  },
+  {
+    "rank": 116,
+    "country": "USA",
+    "title": "GM",
+    "player": "Jacobson, Brandon",
+    "rating": 2459
+  },
+  {
+    "rank": 117,
+    "country": "UZB",
+    "title": "GM",
+    "player": "Madaminov, Mukhiddin",
+    "rating": 2456
+  },
+  {
+    "rank": 118,
+    "country": "AZE",
+    "title": "GM",
+    "player": "Rasulov, Vugar",
+    "rating": 2456
+  },
+  {
+    "rank": 119,
+    "country": "GER",
+    "title": "GM",
+    "player": "Wagner, Dennis",
+    "rating": 2456
+  },
+  {
+    "rank": 120,
+    "country": "IND",
+    "title": "GM",
+    "player": "Ghosh, Diptayan",
+    "rating": 2455
+  },
+  {
+    "rank": 121,
+    "country": "GER",
+    "title": "GM",
+    "player": "Svane, Frederik",
+    "rating": 2455
+  },
+  {
+    "rank": 122,
+    "country": "ITA",
+    "title": "GM",
+    "player": "Lodici, Lorenzo",
+    "rating": 2450
+  },
+  {
+    "rank": 123,
+    "country": "UKR",
+    "title": "IM",
+    "player": "Bilych, Oleksii",
+    "rating": 2450
+  },
+  {
+    "rank": 124,
+    "country": "FID",
+    "title": "IM",
+    "player": "Tsaruk, Maksim",
+    "rating": 2437
+  },
+  {
+    "rank": 125,
+    "country": "HUN",
+    "title": "GM",
+    "player": "Dudin, Gleb",
+    "rating": 2436
+  },
+  {
+    "rank": 126,
+    "country": "UKR",
+    "title": "GM",
+    "player": "Matviishen, Viktor",
+    "rating": 2436
+  },
+  {
+    "rank": 127,
+    "country": "MGL",
+    "title": "GM",
+    "player": "Batsuren, Dambasuren",
+    "rating": 2435
+  },
+  {
+    "rank": 128,
+    "country": "AZE",
+    "title": "IM",
+    "player": "Samadov, Read",
+    "rating": 2434
+  },
+  {
+    "rank": 129,
+    "country": "SVK",
+    "title": "IM",
+    "player": "Druska, Juraj",
+    "rating": 2433
+  },
+  {
+    "rank": 130,
+    "country": "AUT",
+    "title": "GM",
+    "player": "Horvath, Dominik",
+    "rating": 2430
+  },
+  {
+    "rank": 131,
+    "country": "KAZ",
+    "title": "IM",
+    "player": "Isanzhulov, Arystan",
+    "rating": 2427
+  },
+  {
+    "rank": 132,
+    "country": "USA",
+    "title": "GM",
+    "player": "Tang, Andrew",
+    "rating": 2425
+  },
+  {
+    "rank": 133,
+    "country": "AUT",
+    "title": "GM",
+    "player": "Blohberger, Felix",
+    "rating": 2423
+  },
+  {
+    "rank": 134,
+    "country": "KAZ",
+    "title": "GM",
+    "player": "Zhalmakhanov, Ramazan",
+    "rating": 2423
+  },
+  {
+    "rank": 135,
+    "country": "KAZ",
+    "title": "IM",
+    "player": "Urazayev, Arystanbek",
+    "rating": 2423
+  },
+  {
+    "rank": 136,
+    "country": "KOS",
+    "title": "IM",
+    "player": "Saraci, Nderim",
+    "rating": 2419
+  },
+  {
+    "rank": 137,
+    "country": "GRE",
+    "title": "FM",
+    "player": "Papasimakopoulos, Alexandros",
+    "rating": 2417
+  },
+  {
+    "rank": 138,
+    "country": "KAZ",
+    "title": "GM",
+    "player": "Suleymenov, Alisher",
+    "rating": 2413
+  },
+  {
+    "rank": 139,
+    "country": "IND",
+    "title": "GM",
+    "player": "Karthik, Venkataraman",
+    "rating": 2411
+  },
+  {
+    "rank": 140,
+    "country": "COL",
+    "title": "GM",
+    "player": "Escobar Forero, Alder",
+    "rating": 2409
+  },
+  {
+    "rank": 141,
+    "country": "AUS",
+    "title": "IM",
+    "player": "Sardana, Rishi",
+    "rating": 2409
+  },
+  {
+    "rank": 142,
+    "country": "ZIM",
+    "title": "IM",
+    "player": "Makoto, Rodwell",
+    "rating": 2407
+  },
+  {
+    "rank": 143,
+    "country": "GEO",
+    "title": "GM",
+    "player": "Kacharava, Nikolozi",
+    "rating": 2405
+  },
+  {
+    "rank": 144,
+    "country": "MGL",
+    "title": "IM",
+    "player": "Gan-Erdene, Sugar",
+    "rating": 2405
+  },
+  {
+    "rank": 145,
+    "country": "CAN",
+    "title": "IM",
+    "player": "Thavandiran, Shiyam",
+    "rating": 2405
+  },
+  {
+    "rank": 146,
+    "country": "ARG",
+    "title": "IM",
+    "player": "Oro, Faustino",
+    "rating": 2404
+  },
+  {
+    "rank": 147,
+    "country": "USA",
+    "title": "GM",
+    "player": "Hungaski, Robert",
+    "rating": 2402
+  },
+  {
+    "rank": 148,
+    "country": "ISL",
+    "title": "GM",
+    "player": "Gretarsson, Helgi Ass",
+    "rating": 2392
+  },
+  {
+    "rank": 149,
+    "country": "SRB",
+    "title": "IM",
+    "player": "Damjanovic, Vuk",
+    "rating": 2375
+  },
+  {
+    "rank": 150,
+    "country": "MDA",
+    "title": "IM",
+    "player": "Macovei, Andrei",
+    "rating": 2375
+  },
+  {
+    "rank": 151,
+    "country": "TUR",
+    "title": "IM",
+    "player": "Can, Isik",
+    "rating": 2371
+  },
+  {
+    "rank": 152,
+    "country": "KAZ",
+    "title": "IM",
+    "player": "Mamedov, Edgar",
+    "rating": 2356
+  },
+  {
+    "rank": 153,
+    "country": "SUI",
+    "title": "IM",
+    "player": "Gaehwiler, Gabriel",
+    "rating": 2353
+  },
+  {
+    "rank": 154,
+    "country": "AZE",
+    "title": "IM",
+    "player": "Manafov, Vugar",
+    "rating": 2349
+  },
+  {
+    "rank": 155,
+    "country": "KAZ",
+    "title": "IM",
+    "player": "Ansat, Aldiyar",
+    "rating": 2338
+  },
+  {
+    "rank": 156,
+    "country": "USA",
+    "title": "IM",
+    "player": "Rosen, Eric",
+    "rating": 2325
+  },
+  {
+    "rank": 157,
+    "country": "LTU",
+    "title": "IM",
+    "player": "Juksta, Karolis",
+    "rating": 2309
+  },
+  {
+    "rank": 158,
+    "country": "USA",
+    "title": "IM",
+    "player": "Chasin, Nico",
+    "rating": 2300
+  },
+  {
+    "rank": 159,
+    "country": "MGL",
+    "title": "IM",
+    "player": "Amartuvshin, Ganzorig",
+    "rating": 2298
+  },
+  {
+    "rank": 160,
+    "country": "ARM",
+    "title": "GM",
+    "player": "Ohanyan, Emin",
+    "rating": 2295
+  },
+  {
+    "rank": 161,
+    "country": "ARG",
+    "title": "IM",
+    "player": "Schnaider, Ilan",
+    "rating": 2285
+  },
+  {
+    "rank": 162,
+    "country": "USA",
+    "title": "FM",
+    "player": "Adewumi, Tanitoluwa",
+    "rating": 2262
+  },
+  {
+    "rank": 163,
+    "country": "URU",
+    "title": "FM",
+    "player": "Larrea, Manuel",
+    "rating": 2254
+  },
+  {
+    "rank": 164,
+    "country": "KGZ",
+    "title": "CM",
+    "player": "Sharshenbekov, Emir",
+    "rating": 2243
+  },
+  {
+    "rank": 165,
+    "country": "TPE",
+    "title": "IM",
+    "player": "Bai, Adelard",
+    "rating": 2232
+  },
+  {
+    "rank": 166,
+    "country": "KGZ",
+    "title": "FM",
+    "player": "Degenbaev, Aziz",
+    "rating": 2227
+  },
+  {
+    "rank": 167,
+    "country": "NOR",
+    "title": "IM",
+    "player": "Kvaloy, Aksel Bu",
+    "rating": 2226
+  },
+  {
+    "rank": 168,
+    "country": "EGY",
+    "title": "IM",
+    "player": "George, Kevin",
+    "rating": 2212
+  },
+  {
+    "rank": 169,
+    "country": "SWE",
+    "title": "FM",
+    "player": "Grahn, Vidar",
+    "rating": 2206
+  },
+  {
+    "rank": 170,
+    "country": "VIE",
+    "title": "IM",
+    "player": "Banh Gia, Huy",
+    "rating": 2203
+  },
+  {
+    "rank": 171,
+    "country": "BAN",
+    "title": "IM",
+    "player": "Manon, Reja Neer",
+    "rating": 2193
+  },
+  {
+    "rank": 172,
+    "country": "UGA",
+    "title": "FM",
+    "player": "Wanyama, Harold",
+    "rating": 2191
+  },
+  {
+    "rank": 173,
+    "country": "USA",
+    "title": "IM",
+    "player": "Hardaway, Brewington",
+    "rating": 2181
+  },
+  {
+    "rank": 174,
+    "country": "PAR",
+    "title": "CM",
+    "player": "Pereira, Fabian",
+    "rating": 2148
+  },
+  {
+    "rank": 175,
+    "country": "AUS",
+    "title": "FM",
+    "player": "Soo, Kai Jie",
+    "rating": 2112
+  },
+  {
+    "rank": 176,
+    "country": "MNC",
+    "title": "CM",
+    "player": "Meylan, Andre",
+    "rating": 2083
+  },
+  {
+    "rank": 177,
+    "country": "PAN",
+    "title": "FM",
+    "player": "Esquivel Golcher, Luis Enrique",
+    "rating": 2073
+  },
+  {
+    "rank": 178,
+    "country": "KAZ",
+    "title": "FM",
+    "player": "Smirnov, Mark",
+    "rating": 2045
+  },
+  {
+    "rank": 179,
+    "country": "PLE",
+    "title": null,
+    "player": "Ahmed, Nidal",
+    "rating": 1827
+  },
+  {
+    "rank": 180,
+    "country": "KOR",
+    "title": null,
+    "player": "Wong, Hayoung",
+    "rating": 1704
+  }
+]

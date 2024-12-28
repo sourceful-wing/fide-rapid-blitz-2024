@@ -1,0 +1,1172 @@
+[
+  {
+    "Player1": {
+      "Name": "Liang, Awonder",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Player2": {
+      "Name": "Carlsen, Magnus",
+      "Title": "GM",
+      "Country": "NOR"
+    },
+    "Result": "1/2-1/2"
+  },
+  {
+    "Player1": {
+      "Name": "Caruana, Fabiano",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Player2": {
+      "Name": "Corrales Jimenez, Fidel",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Harsha, Bharathakoti",
+      "Title": "GM",
+      "Country": "IND"
+    },
+    "Player2": {
+      "Name": "Vachier-Lagrave, Maxime",
+      "Title": "GM",
+      "Country": "FRA"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Wei, Yi",
+      "Title": "GM",
+      "Country": "CHN"
+    },
+    "Player2": {
+      "Name": "Hakobyan, Aram",
+      "Title": "GM",
+      "Country": "ARM"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Kadric, Denis",
+      "Title": "GM",
+      "Country": "MNE"
+    },
+    "Player2": {
+      "Name": "Nepomniachtchi, Ian",
+      "Title": "GM",
+      "Country": "FID"
+    },
+    "Result": "1/2-1/2"
+  },
+  {
+    "Player1": {
+      "Name": "Aronian, Levon",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Player2": {
+      "Name": "Andersen, Mads",
+      "Title": "GM",
+      "Country": "DEN"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Erenburg, Sergey",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Player2": {
+      "Name": "Firouzja, Alireza",
+      "Title": "GM",
+      "Country": "FRA"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Nakamura, Hikaru",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Player2": {
+      "Name": "Jumabayev, Rinat",
+      "Title": "GM",
+      "Country": "KAZ"
+    },
+    "Result": "1/2-1/2"
+  },
+  {
+    "Player1": {
+      "Name": "Chirila, Ioan-Cristian",
+      "Title": "GM",
+      "Country": "ROU"
+    },
+    "Player2": {
+      "Name": "Abdusattorov, Nodirbek",
+      "Title": "GM",
+      "Country": "UZB"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Duda, Jan-Krzysztof",
+      "Title": "GM",
+      "Country": "POL"
+    },
+    "Player2": {
+      "Name": "Makarian, Rudik",
+      "Title": "IM",
+      "Country": "FID"
+    },
+    "Result": "1/2-1/2"
+  },
+  {
+    "Player1": {
+      "Name": "Pranav, V",
+      "Title": "GM",
+      "Country": "IND"
+    },
+    "Player2": {
+      "Name": "So, Wesley",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Result": "1/2-1/2"
+  },
+  {
+    "Player1": {
+      "Name": "Xiong, Jeffery",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Player2": {
+      "Name": "Grebnev, Aleksey",
+      "Title": "GM",
+      "Country": "FID"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Zemlyanskii, Ivan",
+      "Title": "GM",
+      "Country": "FID"
+    },
+    "Player2": {
+      "Name": "Mamedyarov, Shakhriyar",
+      "Title": "GM",
+      "Country": "AZE"
+    },
+    "Result": "1/2-1/2"
+  },
+  {
+    "Player1": {
+      "Name": "Dominguez Perez, Leinier",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Player2": {
+      "Name": "Amar, Elham",
+      "Title": "GM",
+      "Country": "NOR"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Le Tuan, Minh",
+      "Title": "GM",
+      "Country": "VIE"
+    },
+    "Player2": {
+      "Name": "Yu, Yangyi",
+      "Title": "GM",
+      "Country": "CHN"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Erigaisi, Arjun",
+      "Title": "GM",
+      "Country": "IND"
+    },
+    "Player2": {
+      "Name": "Brodsky, David",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Khanin, Semen",
+      "Title": "GM",
+      "Country": "FID"
+    },
+    "Player2": {
+      "Name": "Praggnanandhaa, R",
+      "Title": "GM",
+      "Country": "IND"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Giri, Anish",
+      "Title": "GM",
+      "Country": "NED"
+    },
+    "Player2": {
+      "Name": "Benjamin, Joel",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Dragnev, Valentin",
+      "Title": "GM",
+      "Country": "AUT"
+    },
+    "Player2": {
+      "Name": "Dubov, Daniil",
+      "Title": "GM",
+      "Country": "FID"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Grischuk, Alexander",
+      "Title": "GM",
+      "Country": "FID"
+    },
+    "Player2": {
+      "Name": "Lou, Yiping",
+      "Title": "IM",
+      "Country": "CHN"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Christiansen, Johan-Sebastian",
+      "Title": "GM",
+      "Country": "NOR"
+    },
+    "Player2": {
+      "Name": "Onischuk, Alexander",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Result": "1/2-1/2"
+  },
+  {
+    "Player1": {
+      "Name": "Le, Quang Liem",
+      "Title": "GM",
+      "Country": "VIE"
+    },
+    "Player2": {
+      "Name": "Vakhidov, Jakhongir",
+      "Title": "GM",
+      "Country": "UZB"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Muradli, Mahammad",
+      "Title": "GM",
+      "Country": "AZE"
+    },
+    "Player2": {
+      "Name": "Oparin, Grigoriy",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Result": "1/2-1/2"
+  },
+  {
+    "Player1": {
+      "Name": "Sindarov, Javokhir",
+      "Title": "GM",
+      "Country": "UZB"
+    },
+    "Player2": {
+      "Name": "Gagunashvili, Merab",
+      "Title": "GM",
+      "Country": "GEO"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Zarnicki, Pablo",
+      "Title": "GM",
+      "Country": "ARG"
+    },
+    "Player2": {
+      "Name": "Sarana, Alexey",
+      "Title": "GM",
+      "Country": "SRB"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "van Foreest, Jorden",
+      "Title": "GM",
+      "Country": "NED"
+    },
+    "Player2": {
+      "Name": "Jacobson, Brandon",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Madaminov, Mukhiddin",
+      "Title": "GM",
+      "Country": "UZB"
+    },
+    "Player2": {
+      "Name": "Ivanchuk, Vasyl",
+      "Title": "GM",
+      "Country": "UKR"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Salem, A.R. Saleh",
+      "Title": "GM",
+      "Country": "UAE"
+    },
+    "Player2": {
+      "Name": "Rasulov, Vugar",
+      "Title": "GM",
+      "Country": "AZE"
+    },
+    "Result": "1/2-1/2"
+  },
+  {
+    "Player1": {
+      "Name": "Wagner, Dennis",
+      "Title": "GM",
+      "Country": "GER"
+    },
+    "Player2": {
+      "Name": "Robson, Ray",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Bortnyk, Olexandr",
+      "Title": "GM",
+      "Country": "UKR"
+    },
+    "Player2": {
+      "Name": "Ghosh, Diptayan",
+      "Title": "GM",
+      "Country": "IND"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Svane, Frederik",
+      "Title": "GM",
+      "Country": "GER"
+    },
+    "Player2": {
+      "Name": "Esipenko, Andrey",
+      "Title": "GM",
+      "Country": "FID"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Cheparinov, Ivan",
+      "Title": "GM",
+      "Country": "BUL"
+    },
+    "Player2": {
+      "Name": "Lodici, Lorenzo",
+      "Title": "GM",
+      "Country": "ITA"
+    },
+    "Result": "1/2-1/2"
+  },
+  {
+    "Player1": {
+      "Name": "Bilych, Oleksii",
+      "Title": "IM",
+      "Country": "UKR"
+    },
+    "Player2": {
+      "Name": "Lu, Shanglei",
+      "Title": "GM",
+      "Country": "CHN"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Naroditsky, Daniel",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Player2": {
+      "Name": "Tsaruk, Maksim",
+      "Title": "IM",
+      "Country": "FID"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Dudin, Gleb",
+      "Title": "GM",
+      "Country": "HUN"
+    },
+    "Player2": {
+      "Name": "Anton Guijarro, David",
+      "Title": "GM",
+      "Country": "ESP"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Deac, Bogdan-Daniel",
+      "Title": "GM",
+      "Country": "ROU"
+    },
+    "Player2": {
+      "Name": "Matviishen, Viktor",
+      "Title": "GM",
+      "Country": "UKR"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Batsuren, Dambasuren",
+      "Title": "GM",
+      "Country": "MGL"
+    },
+    "Player2": {
+      "Name": "Gelfand, Boris",
+      "Title": "GM",
+      "Country": "ISR"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Svane, Rasmus",
+      "Title": "GM",
+      "Country": "GER"
+    },
+    "Player2": {
+      "Name": "Samadov, Read",
+      "Title": "IM",
+      "Country": "AZE"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Druska, Juraj",
+      "Title": "IM",
+      "Country": "SVK"
+    },
+    "Player2": {
+      "Name": "Andriasian, Zaven",
+      "Title": "GM",
+      "Country": "ARM"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Meier, Georg",
+      "Title": "GM",
+      "Country": "URU"
+    },
+    "Player2": {
+      "Name": "Horvath, Dominik",
+      "Title": "GM",
+      "Country": "AUT"
+    },
+    "Result": "1/2-1/2"
+  },
+  {
+    "Player1": {
+      "Name": "Isanzhulov, Arystan",
+      "Title": "IM",
+      "Country": "KAZ"
+    },
+    "Player2": {
+      "Name": "Grigoryan, Karen H.",
+      "Title": "GM",
+      "Country": "ARM"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Lenderman, Aleksandr",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Player2": {
+      "Name": "Tang, Andrew",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Blohberger, Felix",
+      "Title": "GM",
+      "Country": "AUT"
+    },
+    "Player2": {
+      "Name": "Niemann, Hans Moke",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Shankland, Sam",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Player2": {
+      "Name": "Zhalmakhanov, Ramazan",
+      "Title": "GM",
+      "Country": "KAZ"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Urazayev, Arystanbek",
+      "Title": "IM",
+      "Country": "KAZ"
+    },
+    "Player2": {
+      "Name": "Sevian, Samuel",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Safarli, Eltaj",
+      "Title": "GM",
+      "Country": "AZE"
+    },
+    "Player2": {
+      "Name": "Saraci, Nderim",
+      "Title": "IM",
+      "Country": "KOS"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Papasimakopoulos, Alexandros",
+      "Title": "FM",
+      "Country": "GRE"
+    },
+    "Player2": {
+      "Name": "Barbosa, Oliver",
+      "Title": "GM",
+      "Country": "PHI"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Martirosyan, Haik M.",
+      "Title": "GM",
+      "Country": "ARM"
+    },
+    "Player2": {
+      "Name": "Suleymenov, Alisher",
+      "Title": "GM",
+      "Country": "KAZ"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Karthik, Venkataraman",
+      "Title": "GM",
+      "Country": "IND"
+    },
+    "Player2": {
+      "Name": "Bluebaum, Matthias",
+      "Title": "GM",
+      "Country": "GER"
+    },
+    "Result": "1/2-1/2"
+  },
+  {
+    "Player1": {
+      "Name": "Akobian, Varuzhan",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Player2": {
+      "Name": "Escobar Forero, Alder",
+      "Title": "GM",
+      "Country": "COL"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Sardana, Rishi",
+      "Title": "IM",
+      "Country": "AUS"
+    },
+    "Player2": {
+      "Name": "Petrosian, Tigran L.",
+      "Title": "GM",
+      "Country": "ARM"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Sargsyan, Shant",
+      "Title": "GM",
+      "Country": "ARM"
+    },
+    "Player2": {
+      "Name": "Makoto, Rodwell",
+      "Title": "IM",
+      "Country": "ZIM"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Kacharava, Nikolozi",
+      "Title": "GM",
+      "Country": "GEO"
+    },
+    "Player2": {
+      "Name": "Fressinet, Laurent",
+      "Title": "GM",
+      "Country": "FRA"
+    },
+    "Result": "1/2-1/2"
+  },
+  {
+    "Player1": {
+      "Name": "Indjic, Aleksandar",
+      "Title": "GM",
+      "Country": "SRB"
+    },
+    "Player2": {
+      "Name": "Gan-Erdene, Sugar",
+      "Title": "IM",
+      "Country": "MGL"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Thavandiran, Shiyam",
+      "Title": "IM",
+      "Country": "CAN"
+    },
+    "Player2": {
+      "Name": "Bok, Benjamin",
+      "Title": "GM",
+      "Country": "NED"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Antipov, Mikhail Al.",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Player2": {
+      "Name": "Oro, Faustino",
+      "Title": "IM",
+      "Country": "ARG"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Hungaski, Robert",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Player2": {
+      "Name": "Pichot, Alan",
+      "Title": "GM",
+      "Country": "ESP"
+    },
+    "Result": "1/2-1/2"
+  },
+  {
+    "Player1": {
+      "Name": "Sadhwani, Raunak",
+      "Title": "GM",
+      "Country": "IND"
+    },
+    "Player2": {
+      "Name": "Gretarsson, Helgi Ass",
+      "Title": "GM",
+      "Country": "ISL"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Damjanovic, Vuk",
+      "Title": "IM",
+      "Country": "SRB"
+    },
+    "Player2": {
+      "Name": "Murzin, Volodar",
+      "Title": "GM",
+      "Country": "FID"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Chanda, Sandipan",
+      "Title": "GM",
+      "Country": "IND"
+    },
+    "Player2": {
+      "Name": "Macovei, Andrei",
+      "Title": "IM",
+      "Country": "MDA"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Can, Isik",
+      "Title": "IM",
+      "Country": "TUR"
+    },
+    "Player2": {
+      "Name": "Donchenko, Alexander",
+      "Title": "GM",
+      "Country": "GER"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Shimanov, Aleksandr",
+      "Title": "GM",
+      "Country": "FID"
+    },
+    "Player2": {
+      "Name": "Mamedov, Edgar",
+      "Title": "IM",
+      "Country": "KAZ"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Gaehwiler, Gabriel",
+      "Title": "IM",
+      "Country": "SUI"
+    },
+    "Player2": {
+      "Name": "Hovhannisyan, Robert",
+      "Title": "GM",
+      "Country": "ARM"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Bezold, Michael",
+      "Title": "GM",
+      "Country": "GER"
+    },
+    "Player2": {
+      "Name": "Manafov, Vugar",
+      "Title": "IM",
+      "Country": "AZE"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Ansat, Aldiyar",
+      "Title": "IM",
+      "Country": "KAZ"
+    },
+    "Player2": {
+      "Name": "Bu, Xiangzhi",
+      "Title": "GM",
+      "Country": "CHN"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Volokitin, Andrei",
+      "Title": "GM",
+      "Country": "UKR"
+    },
+    "Player2": {
+      "Name": "Rosen, Eric",
+      "Title": "IM",
+      "Country": "USA"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Juksta, Karolis",
+      "Title": "IM",
+      "Country": "LTU"
+    },
+    "Player2": {
+      "Name": "Paravyan, David",
+      "Title": "GM",
+      "Country": "FID"
+    },
+    "Result": "1/2-1/2"
+  },
+  {
+    "Player1": {
+      "Name": "Rakhmanov, Aleksandr",
+      "Title": "GM",
+      "Country": "FID"
+    },
+    "Player2": {
+      "Name": "Chasin, Nico",
+      "Title": "IM",
+      "Country": "USA"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Amartuvshin, Ganzorig",
+      "Title": "IM",
+      "Country": "MGL"
+    },
+    "Player2": {
+      "Name": "Hong, Andrew",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Lomasov, Semyon",
+      "Title": "GM",
+      "Country": "ISR"
+    },
+    "Player2": {
+      "Name": "Ohanyan, Emin",
+      "Title": "GM",
+      "Country": "ARM"
+    },
+    "Result": "1/2-1/2"
+  },
+  {
+    "Player1": {
+      "Name": "Schnaider, Ilan",
+      "Title": "IM",
+      "Country": "ARG"
+    },
+    "Player2": {
+      "Name": "Tari, Aryan",
+      "Title": "GM",
+      "Country": "NOR"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Kevlishvili, Robby",
+      "Title": "GM",
+      "Country": "NED"
+    },
+    "Player2": {
+      "Name": "Adewumi, Tanitoluwa",
+      "Title": "FM",
+      "Country": "USA"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Larrea, Manuel",
+      "Title": "FM",
+      "Country": "URU"
+    },
+    "Player2": {
+      "Name": "Ibarra Jerez, Jose Carlos",
+      "Title": "GM",
+      "Country": "ESP"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Dardha, Daniel",
+      "Title": "GM",
+      "Country": "BEL"
+    },
+    "Player2": {
+      "Name": "Sharshenbekov, Emir",
+      "Title": "CM",
+      "Country": "KGZ"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Bai, Adelard",
+      "Title": "IM",
+      "Country": "TPE"
+    },
+    "Player2": {
+      "Name": "Lazavik, Denis",
+      "Title": "GM",
+      "Country": "FID"
+    },
+    "Result": "1/2-1/2"
+  },
+  {
+    "Player1": {
+      "Name": "Moradiabadi, Elshan",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Player2": {
+      "Name": "Degenbaev, Aziz",
+      "Title": "FM",
+      "Country": "KGZ"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Kvaloy, Aksel Bu",
+      "Title": "IM",
+      "Country": "NOR"
+    },
+    "Player2": {
+      "Name": "Suleymanli, Aydin",
+      "Title": "GM",
+      "Country": "AZE"
+    },
+    "Result": "1/2-1/2"
+  },
+  {
+    "Player1": {
+      "Name": "Aravindh, Chithambaram Vr.",
+      "Title": "GM",
+      "Country": "IND"
+    },
+    "Player2": {
+      "Name": "George, Kevin",
+      "Title": "IM",
+      "Country": "EGY"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Grahn, Vidar",
+      "Title": "FM",
+      "Country": "SWE"
+    },
+    "Player2": {
+      "Name": "Bologan, Victor",
+      "Title": "GM",
+      "Country": "MDA"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Vokhidov, Shamsiddin",
+      "Title": "GM",
+      "Country": "UZB"
+    },
+    "Player2": {
+      "Name": "Banh Gia, Huy",
+      "Title": "IM",
+      "Country": "VIE"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Manon, Reja Neer",
+      "Title": "IM",
+      "Country": "BAN"
+    },
+    "Player2": {
+      "Name": "Nesterov, Arseniy",
+      "Title": "GM",
+      "Country": "FID"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Dlugy, Maxim",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Player2": {
+      "Name": "Wanyama, Harold",
+      "Title": "FM",
+      "Country": "UGA"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Hardaway, Brewington",
+      "Title": "IM",
+      "Country": "USA"
+    },
+    "Player2": {
+      "Name": "Theodorou, Nikolas",
+      "Title": "GM",
+      "Country": "GRE"
+    },
+    "Result": "1/2-1/2"
+  },
+  {
+    "Player1": {
+      "Name": "Durarbayli, Vasif",
+      "Title": "GM",
+      "Country": "AZE"
+    },
+    "Player2": {
+      "Name": "Pereira, Fabian",
+      "Title": "CM",
+      "Country": "PAR"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Soo, Kai Jie",
+      "Title": "FM",
+      "Country": "AUS"
+    },
+    "Player2": {
+      "Name": "Woodward, Andy",
+      "Title": "GM",
+      "Country": "USA"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Nogerbek, Kazybek",
+      "Title": "GM",
+      "Country": "KAZ"
+    },
+    "Player2": {
+      "Name": "Meylan, Andre",
+      "Title": "CM",
+      "Country": "MNC"
+    },
+    "Result": "1-0"
+  },
+  {
+    "Player1": {
+      "Name": "Esquivel Golcher, Luis Enrique",
+      "Title": "FM",
+      "Country": "PAN"
+    },
+    "Player2": {
+      "Name": "Moroni, Luca Jr",
+      "Title": "GM",
+      "Country": "ITA"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Bjerre, Jonas Buhl",
+      "Title": "GM",
+      "Country": "DEN"
+    },
+    "Player2": {
+      "Name": "Smirnov, Mark",
+      "Title": "FM",
+      "Country": "KAZ"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Ahmed, Nidal",
+      "Title": null,
+      "Country": "PLE"
+    },
+    "Player2": {
+      "Name": "Ghaem Maghami, Ehsan",
+      "Title": "GM",
+      "Country": "IRI"
+    },
+    "Result": "0-1"
+  },
+  {
+    "Player1": {
+      "Name": "Kobalia, Mikhail",
+      "Title": "GM",
+      "Country": "FID"
+    },
+    "Player2": {
+      "Name": "Wong, Hayoung",
+      "Title": null,
+      "Country": "KOR"
+    },
+    "Result": "1-0"
+  }
+]
