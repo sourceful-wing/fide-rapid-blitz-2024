@@ -18,7 +18,7 @@ def combine_json_files(n, output_file="combined_players.json"):
         json.dump(combined_data, outfile, indent=4)
 
 
-N = 11
+N = 12
 
 # Example usage
 combine_json_files(N)
